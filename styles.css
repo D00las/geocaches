@@ -1,0 +1,9 @@
+.error {
+    color: red !important;
+    font-style: italic;
+}
+
+.tip {
+    color: gray;
+    font-style: italic;
+}
